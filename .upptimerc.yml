@@ -1,11 +1,10 @@
 owner: NasteMusic
 repo: upptime
 sites:
-  
-name: Dayflow
-  url: https://dayflow.life/
-name: Mythic PBC
-url: https://mythic-pbc.pages.dev/
+  - name: Dayflow
+    url: https://dayflow.life/
+  - name: Mythic PBC
+    url: https://mythic-pbc.pages.dev/
 
 status-website:
   cname: status.dayflow.life
