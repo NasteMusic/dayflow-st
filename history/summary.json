@@ -4,19 +4,19 @@
     "url": "https://dayflow.life/",
     "icon": "https://icons.duckduckgo.com/ip3/dayflow.life.ico",
     "slug": "dayflow",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 193,
-    "timeDay": 341,
-    "timeWeek": 238,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "98.62%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
+    "time": 191,
+    "timeDay": 256,
+    "timeWeek": 230,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2026-06-18": 7
+      "2026-06-18": 190
     }
   },
   {
@@ -24,17 +24,19 @@
     "url": "https://mythic-pbc.pages.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/mythic-pbc.pages.dev.ico",
     "slug": "mythic-pbc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "87.32%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 104,
-    "timeDay": 81,
+    "timeDay": 92,
     "timeWeek": 102,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-18": 183
+    }
   }
 ]
