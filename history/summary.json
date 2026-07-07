@@ -24,7 +24,7 @@
     "url": "https://mythic-pbc.pages.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/mythic-pbc.pages.dev.ico",
     "slug": "mythic-pbc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-06-18": 183
+      "2026-06-18": 183,
+      "2026-07-07": 0
     }
   }
 ]
